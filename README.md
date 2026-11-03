@@ -1,4 +1,4 @@
-# BeRaptor
+# finpilot-beraptor
 
 <img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/23368f2e-93c2-45a6-ad4b-aca6f6d66823" />
 
